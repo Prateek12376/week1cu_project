@@ -239,8 +239,3 @@ footer{
     margin-top:4px;
     margin-left: 10px;
 }  
-@media screen and (min-width: 900px){
-    .container{
-        display: flex;
-    }
-}
